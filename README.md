@@ -1,180 +1,174 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="EDUARDO.OS Banner" width="100%">
+  <img src="./assets/banner.png" alt="EDUARDO.OS — Eduardo Fellipe" width="100%">
 </p>
 
 <div align="center">
 
-# `EDUARDO.OS`
+### Eduardo Fellipe
 
-### Developer in Progress
+`@eduardofellipe`
 
-**Building things I couldn't build yesterday.**
+**Software Development Student · Developer in Progress**
+
+*Building things I couldn't build yesterday.*
 
 </div>
 
 <br>
 
 ```text
-> booting eduardo.os...
+eduardo@dev:~$ whoami
 
-[OK] curiosity loaded
-[OK] programming logic loaded
-[OK] problem solving loaded
-[>>] python loading...
-[>>] experience building...
+> curious developer
+> learning how software works from the ground up
+> turning study into code and code into projects
+> currently building the foundation
 ```
 
 ---
 
-## `> whoami`
+## `01 // SYSTEM PROFILE`
 
-```text
-Name      : Eduardo Fellipe
-Role      : Developer in Progress
-Location  : Goiânia, Brazil
-Focus     : Programming • Software Development • Problem Solving
-Status    : Learning and building
-```
+```yaml
+name: Eduardo Fellipe
+location: Goiânia, Brazil
 
-Construindo minha base em desenvolvimento de software, transformando estudos em código e código em projetos.
+status:
+  - studying Software Development
+  - building programming fundamentals
+  - creating real projects step by step
 
-Quero entender não só como programar, mas **como as coisas funcionam**.
+current_stack:
+  - Python
+  - Portugol
+  - Git
+  - GitHub
 
----
-
-## `> current_mission`
-
-```text
-[✓] Learn programming logic
-[✓] Build algorithms with Portugol
-[>>] Improve Python fundamentals
-[>>] Learn Git & GitHub
-[ ] Build my first complete application
-[ ] Work with APIs
-[ ] Build real-world projects
-[ ] Ship something people actually use
+interests:
+  - Software Development
+  - Problem Solving
+  - Automation
+  - Technology
 ```
 
 ---
 
-## `> skill_tree`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-</p>
+## `02 // CURRENT MISSION`
 
 ```text
-Python       █████░░░░░  LEARNING
-Portugol     ██████░░░░  LEARNING
-```
+FOUNDATION
+├─ [✓] Programming logic
+├─ [✓] Variables & operators
+├─ [✓] Conditionals
+├─ [>>] Loops
+├─ [>>] Algorithms
+└─ [>>] Python fundamentals
 
-### Core
+DEVELOPER TOOLKIT
+├─ [>>] Git
+├─ [>>] GitHub
+├─ [ ] APIs
+├─ [ ] Databases
+└─ [ ] Software architecture
 
-```text
-Programming Logic    ██████░░░░
-Algorithms           █████░░░░░
-Problem Solving      █████░░░░░
-Git / GitHub         ███░░░░░░░
-```
-
-> Progress bars represent my learning journey, not proficiency certifications.
-
----
-
-## `> project_archive`
-
-```text
-01 // LOGIC LAB
-     Programming fundamentals & challenges
-     STATUS: BUILDING
-
-02 // PYTHON LAB
-     Experiments and Python projects
-     STATUS: LOADING
-
-03 // DEV LOG
-     My journey from beginner to developer
-     STATUS: COMING SOON
-
-04 // ???
-     Next transmission incoming...
+OBJECTIVE
+└─ [ ] Build software people actually want to use
 ```
 
 ---
 
-## `> currently_learning`
+## `03 // STACK`
+
+### Currently working with
+
+`Python` · `Portugol` · `Git` · `GitHub`
+
+### Building toward
+
+`APIs` · `SQL` · `Databases` · `Backend Development`
+
+> I only add technologies here when I actually start learning or using them.
+
+---
+
+## `04 // PROJECT ARCHIVE`
+
+```text
+01  LOGIC LAB
+    Programming logic, algorithms and challenges
+    └─ STATUS: BUILDING
+
+02  PYTHON LAB
+    Experiments and small Python applications
+    └─ STATUS: INITIALIZING
+
+03  DEV LOG
+    Notes, discoveries and progress through my journey
+    └─ STATUS: PLANNED
+
+04  UNKNOWN PROJECT
+    Something worth building hasn't been discovered yet.
+    └─ STATUS: ???
+```
+
+---
+
+## `05 // HOW I LEARN`
 
 ```python
-current_focus = [
-    "Programming Logic",
-    "Python",
-    "Algorithms",
-    "Git & GitHub",
-    "Software Development"
-]
-
-while True:
+def become_better():
     learn()
     build()
-    break_things()
-    understand_why()
-    build_better()
+
+    try:
+        experiment()
+    except Exception:
+        understand_the_problem()
+        fix_it()
+
+    return improve()
 ```
+
+I don't want to memorize code.
+
+I want to understand **why it works**.
 
 ---
 
-## `> dev_philosophy`
+## `06 // BUILD LOG`
 
 ```text
-I don't want to collect technologies.
+2026.09
 
-I want to understand them.
-
-Learn.
-Build.
-Break.
-Fix.
-Improve.
-Repeat.
++ started building my developer identity
++ studying programming logic
++ practicing algorithms with Portugol
++ learning Python fundamentals
++ learning Git and GitHub
++ first projects incoming...
 ```
 
 ---
 
-## `> system_stats`
+## `07 // PRINCIPLES`
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=eduardofellipe&show_icons=true&hide_border=true&theme=transparent"
-    alt="Eduardo Fellipe GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofellipe&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
+```text
+01. Learn the fundamentals.
+02. Build before feeling ready.
+03. Break things without being afraid of fixing them.
+04. Understand the problem, not just the solution.
+05. Make the next version better than the last.
+```
 
 ---
 
-## `> connection`
+## `08 // CONNECTION`
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/eduardofellipe">
-  <img src="https://img.shields.io/badge/GitHub-eduardofellipe-181717?style=for-the-badge&logo=github">
-</a>
+**[GitHub](https://github.com/eduardofellipe)** · **[Instagram](https://instagram.com/Eduardofellipe_)**
 
-<a href="https://instagram.com/Eduardofellipe_">
-  <img src="https://img.shields.io/badge/Instagram-@Eduardofellipe_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -183,11 +177,13 @@ Repeat.
 ```text
 eduardo@dev:~$ ./next_goal
 
-Building something worth starring.
+Searching for the next problem worth solving...
 
 █
 ```
 
-### `CODE / LEARN / BUILD / REPEAT`
+**`CODE / LEARN / BUILD / REPEAT`**
+
+<sub>EDUARDO.OS · build 0.1</sub>
 
 </div>
